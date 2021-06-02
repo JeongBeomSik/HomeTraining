@@ -3,7 +3,6 @@
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/48792153/120433612-69b70b80-c3b6-11eb-90f4-aa1d76704909.gif)
 
 <h1> 한개의 HomeTraining.html파일로 웹페이지 제작</h1>
-
 1. CSS3를 사용해 수평 정렬
 2. CSS3를 사용해 중앙 정렬
 3. CSS3를 사용해 One True 레이아웃을 구성
